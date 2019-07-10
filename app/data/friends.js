@@ -1,8 +1,8 @@
 
-[
+var friendData = [
 {
     "name":"Ral",
-    "photo":"",
+    "photo":"https://costumewall.com/wp-content/uploads/2016/10/james-team-rocket-costume.jpg",
     "scores":[
         4,
         2,
@@ -21,7 +21,7 @@
 
   {
     "name":"Laura",
-    "photo":"",
+    "photo":"https://pbs.twimg.com/profile_images/1909416809/jessie37_400x400.jpg",
     "scores":[
         1,
         2,
@@ -42,7 +42,7 @@
 
   {
     "name":"Celeste",
-    "photo":"",
+    "photo":"https://vignette.wikia.nocookie.net/spongebobgalaxy/images/d/d9/DoodleBob.png/revision/latest?cb=20180226030146",
     "scores":[
        1,
        3,
@@ -62,7 +62,7 @@
 
   {
     "name":"Madison",
-    "photo":"",
+    "photo":"https://www.scruff-a-luvs.com/wp-content/uploads/2018/06/Scruff_Ball_Nest_AQUA-FINAL-V3.gif",
     "scores":[
       2,
       3,
@@ -93,3 +93,7 @@
 
 
 ]
+
+
+
+module.exports = friendData;
